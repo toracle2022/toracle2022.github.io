@@ -1,0 +1,27 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://toracle2022.github.io
+title: The 2nd International Workshop on Test Oracles
+email: toracleconf@gmail.com
+author: Jahangirova Gunel and Valerio Terragni
+description: The 2nd International Workshop on Test Oracles collocated with ESEC/FSE 2022.
+copyright: 'Copyright &copy; 2022 Jahangirova Gunel and Valerio Terragni. All Rights Reserved.'
+credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/TOracle2021
